@@ -1,0 +1,200 @@
+.container{
+    border: 5px black solid;
+}
+.name{
+    height: 50px;
+    font-size: 35px;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.title{
+    background-color: rgb(46, 148, 207);
+    height: 50px;
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.experience{
+    padding-top: 25px;
+    padding-left: 30px;
+    font-size: 26px;
+    width: 70%;
+    color:rgb(46, 148, 207);
+    background-color: white;
+    height: 1500px;
+    text-decoration-color: rgb(46, 148, 207);
+}
+.professional{
+   display: flex;
+   width: 100%;
+   justify-content: space-between;
+}
+.line{
+    outline: 1px solid rgb(46, 148, 207);
+}
+.fed{
+    padding-bottom: 8PX;
+    padding-top: 8px;
+    color: black;
+}
+.company-name{
+    color: black;
+}
+.working-date{
+    font-size: 22px;
+    padding-left:60%;
+}
+.working-place{
+    padding-left:82%;
+    font-size: 22px;
+}
+.contact{
+    padding-top: 10px;
+    padding-left: 30px;
+    font-size: 26px;
+    color:rgb(46, 148, 207);
+    width: 30%;
+    text-align:left ;
+    background-color: white;
+    height: 1500px;
+    line-height: 45px;
+}
+.lines{
+    outline:1px solid rgb(46, 148, 207);;
+    width: 90%;
+}
+.place{
+    color: black;
+    font-size: 22px;
+}
+.summary{
+    color: rgb(46, 148, 207);
+    font-size: 26px;
+}
+.summary-content{
+    font-size: 22px;
+    color: black; 
+    padding-top: 10px;
+}
+.list{
+    font-size: 22px;
+    padding-left: 25px;
+    color: black;  
+    line-height: 40px;
+}
+.tel{
+    font-size: 25px;
+}
+.mail{
+    font-size: 25px;
+}
+.keyskills{
+    font-size: 26px;
+}
+.skills{
+    font-size: 20px;
+    outline: 2px solid rgb(46, 148, 207);
+    color: white;
+    background-color: rgb(46, 148, 207);
+    text-align: center;
+    width: 70%;
+    margin-left: 11%;
+    margin-top: 20px;
+    border-radius: 8%;
+}
+.education-ug{
+    padding-top: 20px;
+    font-size: 26px;
+}
+.studies{
+    color: black;
+    font-size: 22px;
+    padding-top: 10px;
+}
+.ug-mark{
+    padding-left:15%;
+}
+.date-studies{
+    font-size: 22px;
+    padding-left:40%;
+    color: black;
+}
+.hsc-mark{
+    padding-left: 35%;
+}
+.date-hsc{
+    font-size: 22px;
+    padding-left:40%; 
+    color: black;
+}
+.sslc-mark{
+    padding-left: 34%;
+}
+.date-sslc{
+    font-size: 22px;
+    padding-left:39%;
+    color: black;
+}
+.objective-content{
+    font-size: 22px;
+    color: black;
+    padding-top: 10px;
+}
+.objective{
+    font-size: 26px;
+}
+.projects{
+    padding-top:20px ;
+    font-size: 26px;
+}
+.project-head{
+    color: black;
+    font-size: 24px;
+    padding-top: 10px;
+}
+.projects-content{
+    padding-top: 10px;
+    color: black;
+    font-size: 22px;
+    line-height: 30px;
+}
+.tech-skills{
+    padding-top: 10px;
+    font-size: 26px;
+}
+.skills-list{
+    padding-top: 10px;
+    font-size: 22px;
+    color: black;
+    padding-left: 11%;
+}
+.hobbies{
+    font-size: 26px;
+    padding-top: 20px;
+}
+.hobbies-list{
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: 22px;
+    color: black;
+    line-height: 30px;
+}
+.personal{
+    font-size: 26px;
+    padding-top: 20px;
+}
+.bio{
+    padding-top: 10px;
+    font-size: 22px;
+    text-align: left;
+    color: black;
+    line-height: 35px;
+}
+
+
+
+
+
+
