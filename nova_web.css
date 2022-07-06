@@ -1,0 +1,246 @@
+.container{
+   width: 1300px;
+   margin: auto;
+}
+.header-navi{
+    display: flex;
+    justify-content: space-between;
+    background-attachment: fixed;
+}
+.header{
+    width: 600px;
+    padding: 30px 0px 0px 50px;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 500;
+    height: 500px;
+    background-color: rgba(27, 47, 69, 0.9); 
+    font-family:-apple-system, BlinkMacSystemFont,
+     'Segoe UI', Roboto, 'Helvetica Neue', Arial, 
+     'Noto Sans', sans-serif, 
+     'Apple Color Emoji', 'Segoe UI Emoji', 
+    'Segoe UI Symbol', 'Noto Color Emoji'; 
+}
+.focus{
+    font-size: 40px;
+    padding-top: 60px;
+    font-weight: 500;
+}
+.line-content{
+    display: flex;
+    padding-top: 20px;
+}
+.line{
+    width: 5px;
+    height: 90px;
+    background-color: #31b8fe;  
+}
+.content{
+    font-size: 15px;
+    padding: 20px 0px 0px 15px;
+}
+.get-watch{
+    padding-top: 30px;
+}
+.start {
+    color: #fff;
+    background-color: #31b8fe;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 18px;
+    margin-top: 50px;
+    padding: 10px;
+}
+.get-watch i{
+    padding-left: 50px;
+}
+.watch{
+    color: #fff;
+    font-size: 18px;
+    transition: 0.5s;
+    text-decoration: none;
+}
+.navigation{
+    width: 800px;
+    background-image: url('../Picture/staffs.jpg');
+    background-size: cover;
+    list-style-type: none;
+    height: 490px;
+    padding-top: 40px;
+    color: #fff;
+    transition: 0.2s;
+}
+.navigation li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
+}
+.staffs-img{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(27, 47, 69, 0.9);
+    width:715px;
+    transform: translateY(-40px);
+    height: 530px;  
+}
+.page2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    width: 1300px;
+}
+.section-title{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-weight: 300;
+    padding-top: 50px;
+    font-size: 33px;
+    font-family: "Raleway", sans-serif;
+}
+.page-hr{
+    border-bottom: 2px solid #31b8fe;
+    width: 80px;
+    margin-top: 20px;
+}
+.employee-img{
+    background-image: url('../Picture/employee.jpg');
+    width: 450px ;
+    height: 500px;
+    background-size: cover;
+    margin: 30px 0px 0px 130px;
+}
+.lets-grow{
+    text-align: left;
+    padding:160px 150px 0px 0px;
+    width: 400px;
+
+}
+.lets-grow b{
+    font-size: 30px;
+    color:rgb(0, 0, 0) ;
+}
+.lets-grow p{
+    font-size:22px ;
+    padding-top: 20px;
+    color:rgb(54, 49, 49) ;
+}
+.page2-content{
+    font-size:20px ;
+    padding-top: 20px;
+}
+.page3{
+    width: 1300px;
+}
+.page3-content{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 1300px;
+    padding-left: 20px; 
+    margin: auto;
+    line-height: 25px;
+}
+.page3-sub{
+    width: 30%;
+    height: 30%;
+    padding-top: 20px;
+}
+.page3-content h5{
+    font-size: 25px;
+    font-weight: 100;
+}
+.icofont-bag-alt{
+    color: #ffa500;
+    font-size: 30px;
+    padding-right: 20px;
+}
+.icofont-id{
+    color: #008000;
+    font-size: 30px;
+    padding-right: 20px;
+}
+.icofont-signal{
+    color: #ffc0cb;
+    font-size: 30px;
+    padding-right: 20px;
+}
+.icofont-binoculars{
+    color: #00ffff;
+    font-size: 30px;
+    padding-right: 20px;
+}
+.icofont-sun{
+    color: #f7f700;
+    font-size: 30px;
+    padding-right: 20px;
+}
+.icofont-interface{
+    color: #0000ff;
+    font-size: 30px;
+    padding-right: 20px;
+}
+.para-page3{
+    margin-left: 50px;
+}
+.call-to-action{
+    background-image: url('../Picture/build.jpg');
+    background-size: cover ;
+    width: 1300px;
+    height: 400px;
+    text-align: center;
+    margin-top: 50px;
+    color: #fff;
+    font-style:"Raleway", sans-serif;
+}
+.call-to-action h5{
+    font-size: 33px;
+    padding-top: 130px;
+    line-height: 60px;
+}
+.call-to-action p{
+    font-size: 18px;
+}
+.bg-color{
+    background-color: rgba(27, 47, 69, 0.8);
+    background-attachment: fixed;
+    width: 1300px;      
+    height: 400px;
+}
+.call-to-action a{
+    background-color: #31b8fe;
+    line-height: 90px;
+    padding:10px;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 30px;
+    text-decoration: none;
+}
+.page5{
+    width: 1300px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.mobile-image{
+    background-image: url(../Picture/phone.png);
+    width: 350px;
+    height: 500px;
+    background-size: cover;
+}
+.powerful-features{
+    width: 800px;
+    padding: 20px 0px 0px 50px;
+    font-size: 30px;
+}
+.whole-features{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 200px;
+    padding: 30px;
+}
+.features{
+    width: 300px;
+    font-size: 22px;
+
+}
